@@ -1,0 +1,25 @@
+body {
+    background-color: skyblue;
+    color:blue;
+    box-sizing: border-box;
+    text-align: center;
+}
+article p{
+    background-color: white;
+    font-family: sans-serif;
+}
+
+h1,h3{
+    display: inline;
+    text-align: center;
+    background-color: white;
+    background-size:300px;
+    font-family:cursive
+}
+h2,div{
+    display: inline;
+    background-color: white;
+}
+ul li{
+    display: block;
+}
